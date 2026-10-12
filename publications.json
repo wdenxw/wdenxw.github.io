@@ -1,0 +1,99 @@
+[
+  {
+    "title": "DisPad: Flexible On-Body Displacement of Fabric Sensors for Robust Joint Motion Tracking",
+    "type": "paper",
+    "topics": [
+      "sensing",
+      "motion"
+    ],
+    "description": "织物传感器的灵活放置与鲁棒关节运动追踪。",
+    "descriptionEn": "Flexible placement of fabric sensors for robust joint motion tracking."
+  },
+  {
+    "title": "Full-body Human Motion Reconstruction with Sparse Joint Tracking",
+    "type": "paper",
+    "topics": [
+      "motion"
+    ],
+    "description": "基于稀疏关节追踪的全身人体运动重建。",
+    "descriptionEn": "Full-body human motion reconstruction from sparse joint tracking."
+  },
+  {
+    "title": "SuDA: Support-based Domain Adaptation for Sim2Real Hinge Joint Tracking",
+    "type": "paper",
+    "topics": [
+      "motion"
+    ],
+    "description": "面向仿真到现实铰链关节追踪的支持式域适应。",
+    "descriptionEn": "Support-based domain adaptation for simulation-to-real hinge joint tracking."
+  },
+  {
+    "title": "RehabFAB: Design Investigation and Needs Assessment of Displacement-oriented Fabric Wearable Sensors…",
+    "type": "paper",
+    "topics": [
+      "sensing"
+    ],
+    "description": "面向位移感知的织物可穿戴传感器设计与需求评估。截图中的完整标题被截断，待补充。",
+    "searchTitle": "RehabFAB Design Investigation Needs Assessment Displacement oriented Fabric Wearable Sensors",
+    "descriptionEn": "Design and needs assessment of displacement-oriented fabric wearable sensors. The full title was truncated in the provided screenshot."
+  },
+  {
+    "title": "FSCIL-SEI: Few-Shot Class-Incremental Learning Approach for Specific Emitter Identification",
+    "type": "paper",
+    "topics": [
+      "signal"
+    ],
+    "description": "用于特定辐射源识别的小样本类增量学习。",
+    "descriptionEn": "Few-shot class-incremental learning for specific emitter identification."
+  },
+  {
+    "title": "Lightweight Specific Emitter Identification via Joint Compression Based on Reinforcement Learning",
+    "type": "paper",
+    "topics": [
+      "signal"
+    ],
+    "description": "基于强化学习与联合压缩的轻量化特定辐射源识别。",
+    "descriptionEn": "Lightweight specific emitter identification using reinforcement learning and joint compression."
+  },
+  {
+    "title": "Smart Secure Authentication Sensing for Maritime Traffic Sensor Individual Recognition Perspective",
+    "type": "paper",
+    "topics": [
+      "signal"
+    ],
+    "description": "涉及海上交通传感器个体识别与安全认证感知。",
+    "descriptionEn": "Maritime traffic sensor individual recognition and secure authentication sensing."
+  },
+  {
+    "title": "可灵活放置的用于鲁棒关节运动跟踪的纺织传感器",
+    "type": "patent",
+    "topics": [
+      "sensing",
+      "motion"
+    ],
+    "description": "中文成果；专利申请号、授权状态及发明人信息待补充。",
+    "descriptionEn": "Chinese-language work. Patent number, grant status, and inventor information are pending.",
+    "titleEn": "Flexibly Positioned Textile Sensors for Robust Joint Motion Tracking"
+  },
+  {
+    "title": "一种基于柔性传感器的人体运动跟踪方法",
+    "type": "patent",
+    "topics": [
+      "sensing",
+      "motion"
+    ],
+    "description": "中文成果；专利申请号、授权状态及发明人信息待补充。",
+    "descriptionEn": "Chinese-language work. Patent number, grant status, and inventor information are pending.",
+    "titleEn": "A Human Motion Tracking Method Based on Flexible Sensors"
+  },
+  {
+    "title": "一种人体运动姿态跟踪方法及装置",
+    "type": "patent",
+    "topics": [
+      "motion"
+    ],
+    "description": "中文成果；专利申请号、授权状态及发明人信息待补充。",
+    "descriptionEn": "Chinese-language work. Patent number, grant status, and inventor information are pending.",
+    "titleEn": "A Method and Device for Tracking Human Motion Posture"
+  }
+]
